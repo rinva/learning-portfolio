@@ -27,7 +27,6 @@ Each training area has its own markdown file with notes, reflections, and key ta
 - [aws_training.md](aws_training.md)
 - [galaxy_training.md](galaxy_training.md)
 - [udemy_courses.md](udemy_courses.md)
-- [progress_log.md](progress_log.md)
 
 ---
 
